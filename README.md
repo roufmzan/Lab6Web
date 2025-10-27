@@ -3,11 +3,12 @@
 # Kelas : TI.24.A1
 
 **Hasil Output**
-<img width="958" height="505" alt="image" src="https://github.com/user-attachments/assets/109a41c4-8224-4c3a-8a9a-9a489667b519" />
+<img width="1440" height="900" alt="Jepretan Layar 2025-10-28 pukul 00 25 59" src="https://github.com/user-attachments/assets/d0e629d0-afed-44fc-aa0b-112862cb884d" />
+
 
 **Codingan**
 **Home.html**
-```
+``` python
 <!doctype html>
 <html lang="id">
 <head>
